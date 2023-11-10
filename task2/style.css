@@ -1,0 +1,27 @@
+.h1, h1{
+    font-size: 80px;
+    color: rgb(234, 13, 13);
+    display: flex;
+    justify-content: center;
+}
+.contactdetails
+{
+    background-color: aqua;
+}
+
+.aboutus{
+    display: grid;
+    margin-top: 100px;
+    margin-left: 150px;
+
+    width: 380px;
+}
+h2{
+    font-weight: bold;       /* Make the text bold */
+    text-decoration: underline; /* Add an underline */
+            /* Set the text color to red (you can use any color value you prefer) */
+  }
+
+  .decor{
+    color: #e010ba;
+  }
